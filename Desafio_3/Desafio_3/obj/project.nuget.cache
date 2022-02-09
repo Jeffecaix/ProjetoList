@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2wRz7vqiDgLG980mWS7Gdr+UmyNAEyWO7WWdUrBaf80vlfRy61fa2oaKmb8l5qBnH/iIvwI8BgC4fBDMtFv06A==",
+  "success": true,
+  "projectFilePath": "J:\\GFT\\Desafio_3\\Desafio_3\\Desafio_3\\Desafio_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
